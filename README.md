@@ -13,8 +13,8 @@ WEEK 1:
 
 * [Day 1](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%201) - Introduction: Welcome to Code
 * [Day 2](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%202) - Variables, Boolean, Conditionals
-* Day 3 - Images, Fonts, Animations
-* Day 4 - Custom Shapes, Sine Waves & Keyboard Interactions
+* [Day 3](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%203) - Images, Fonts, Animations
+* [Day 4](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%204) - Custom Shapes, Sine Waves & Keyboard Interactions
 * Day 5 - Pattern Day
 
 WEEK 2:
