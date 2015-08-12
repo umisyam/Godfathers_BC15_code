@@ -19,9 +19,9 @@ WEEK 1:
 
 WEEK 2:
 
-* Day 6 - MIDTERM REVIEW DAY
-* Day 7 - Arrays
-* Day 8 - Physics & Vectors
+* [Day 6](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%206%20-%20MIDTERM) - MIDTERM REVIEW DAY
+* [Day 7](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%207) - Arrays
+* [Day 8](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%208) - Physics & Vectors
 * Day 9 - Objects & Classes
 * Day 10 - Objects & Classes (2)
 
