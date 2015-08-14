@@ -11,19 +11,19 @@ add links as they become available
 
 WEEK 1:
 
-* [Day 1](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%201) - Introduction: Welcome to Code
-* [Day 2](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%202) - Variables, Boolean, Conditionals
-* [Day 3](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%203) - Images, Fonts, Animations
-* [Day 4](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%204) - Custom Shapes, Sine Waves & Keyboard Interactions
-* [Day 5](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%205) - Pattern Day
+* [Day 1](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%2001) - Introduction: Welcome to Code
+* [Day 2](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%2002) - Variables, Boolean, Conditionals
+* [Day 3](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%2003) - Images, Fonts, Animations
+* [Day 4](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%2004) - Custom Shapes, Sine Waves & Keyboard Interactions
+* [Day 5](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%2005) - Pattern Day
 
 WEEK 2:
 
-* [Day 6](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%206%20-%20MIDTERM) - MIDTERM REVIEW DAY
-* [Day 7](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%207) - Arrays
-* [Day 8](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%208) - Physics & Vectors
-* Day 9 - Objects & Classes
-* Day 10 - Objects & Classes (2)
+* [Day 6](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%2006%20-%20MIDTERM) - MIDTERM REVIEW DAY
+* [Day 7](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%2007) - Arrays
+* [Day 8](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%2008) - Physics & Vectors
+* [Day 9](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%2009) - Objects & Classes
+* [Day 10](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%2010) - Objects & Classes (2)
 
 WEEK 3:
 
