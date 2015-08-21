@@ -27,7 +27,7 @@ WEEK 2:
 
 WEEK 3:
 
-* Day 11 - Pixels, Image Processing & Libraries
+* [Day 11](https://github.com/umisyam/Godfathers_BC15_code/tree/master/Day%2011) - Pixels, Image Processing & Libraries
 * Day 12 & 13 - Workshop Days
 * Day 14 - FINAL PRESENTATION REHEARSAL
 * Day 15 - FINAL PRESENTATION DAY

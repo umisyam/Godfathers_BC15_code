@@ -1,6 +1,5 @@
 String[] students = { 
-  "Hadeel", "Jon", "Jourdan", "Andrew", 
-  "Victoria", "Leyla", "Taylor", "Jasmine", 
+  "Hadeel", "Jon", "Jourdan", "Andrew", "Leyla", "Taylor", "Jasmine", 
   "Cat", "Dora", "David", "Greg"
 };
 
